@@ -17,3 +17,15 @@ _via source Code but zip file_
 + visit Pixabay  
 
 https://pixabay.com/
+
+**_Additional info_**
+you can make this task more convinient by making a command line script to run the program follow the steps to do so.
+
++ open a blank text file wherever you want and write this in it
+
+@echo off
+
+cd _path where the script is located_ eg C:\Users\user\Desktop
+python ./Pixabay.py
+
++save as the file by the type _all_ and with the extension _.bat_
