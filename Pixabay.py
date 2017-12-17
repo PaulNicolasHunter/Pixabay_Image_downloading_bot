@@ -79,7 +79,7 @@ if len(topic) == 2:
 	RetrieveImages.searchIn()
 
 elif len(topic) == 3:
-	RetrieveImages = PixaBay(topic[0], int(topic[1]), str(topic[2].encode('unicode_escape')).replace(r'\\\\', r'\\'))
+	RetrieveImages = PixaBay(topic[0], int(topic[1]), topic[2] + r'\\')
 	RetrieveImages.searchIn()
 
 else:
