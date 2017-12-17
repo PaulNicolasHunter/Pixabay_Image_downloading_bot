@@ -28,4 +28,4 @@ you can make this task more convinient by making a command line script to run th
 cd _path where the script is located_ eg C:\Users\user\Desktop
 python ./Pixabay.py
 
-+save as the file by the type _all_ and with the extension _.bat_
++ save as the file by the type _all_ and with the extension _.bat_
