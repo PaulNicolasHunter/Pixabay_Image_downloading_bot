@@ -13,5 +13,6 @@ _via pip_
 _via source Code but zip file_
 >https://pypi.python.org/pypi/robobrowser
 
-+ isit Pixabay 
++ visit Pixabay  
+
 https://pixabay.com/
