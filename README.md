@@ -19,7 +19,7 @@ _via source Code but zip file_
 https://pixabay.com/
 
 **_Additional info_**
-you can make this task more convinient by making a command line script to run the program follow the steps to do so.
+you can make this task more convinient in a few lines of command line script to run the program, follow the steps to do so.
 
 + open a blank text file wherever you want and write this in it
 
